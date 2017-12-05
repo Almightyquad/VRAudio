@@ -1,0 +1,178 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8105 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading D:\UnityProjects\VRAudio\test_Data\Managed\websocket-sharp.dll into Unity Child Domain
+- Completed reload, in  0.168 seconds
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProjects\VRAudio\test_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'LeftHandAnchor') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'LeftHandAnchor') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'RightHandAnchor') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'RightHandAnchor') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'hand_right') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'base') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'AppButtonOutside') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'body') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'TouchPadInside') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'controller_left') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'controller_right') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerMain') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerMain') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'LocalAvatar') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'LocalAvatar') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerPointer') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_PlayArea') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'OVRCameraRig') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'OVRCameraRig') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'GvrViewerMain') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ddcontroller') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'hand_left') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'TouchPadOutside') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'AppButtonInside') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'VRCameraRig') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Controller') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 0.851289 ms
+Update() was called by Unity. Scene is loaded. Let's connect to the Photon Master Server. Calling: PhotonNetwork.ConnectUsingSettings();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1f44 -> priority: 1 
+  Thread -> id: 4754 -> priority: 1 
+OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: connecting to region eu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1826)
+

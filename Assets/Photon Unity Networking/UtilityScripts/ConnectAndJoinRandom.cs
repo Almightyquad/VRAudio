@@ -38,6 +38,22 @@ public class ConnectAndJoinRandom : Photon.MonoBehaviour
     // you can find PUN's callbacks in the class PunBehaviour or in enum PhotonNetworkingMessage
 
 
+    public virtual void OnPhotonPlayerConnected(PhotonPlayer player)
+    {
+        Debug.Log("Player joined");
+        PhotonPlayer [] players = PhotonNetwork.otherPlayers;
+        Debug.Log("f" + player.UserId);
+        string userid = players[players.Length - 1].UserId;
+        Debug.Log(userid);
+        //PhotonNetwork.room
+    }
+
+    public virtual void OnPhotonPlayerDisconnected()
+    {
+        Debug.Log("Player Disconnected");
+        // PhotonPlayer player = new PhotonPlayer(0,2,)
+    }
+
     public virtual void OnConnectedToMaster()
     {
         Debug.Log("OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();");
@@ -53,7 +69,7 @@ public class ConnectAndJoinRandom : Photon.MonoBehaviour
     public virtual void OnPhotonRandomJoinFailed()
     {
         Debug.Log("OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one. Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);");
-        PhotonNetwork.CreateRoom(null, new RoomOptions() { MaxPlayers = 4 }, null);
+        PhotonNetwork.CreateRoom(null, new RoomOptions() { MaxPlayers = 4, PublishUserId = true }, null);
     }
 
     // the following methods are implemented to give you some context. re-implement them as needed.

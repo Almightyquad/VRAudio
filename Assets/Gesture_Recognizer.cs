@@ -27,7 +27,5 @@ public class Gesture_Recognizer : MonoBehaviour {
                 leftControllerActive = true;
             }
         }
-
-
 	}
 }
